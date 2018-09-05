@@ -111,15 +111,20 @@ Description du projet
 * git :
 
 
-# Équipe 11 : Nom du projet
-Description du projet 
+# Équipe 11 : my-pet
+Il s'agit d'un Tamagotchi-like: gestion d'un petit animal qui évolue.
+Il faut gérer ses bésoins.
 
 ## Équipe
-* Prénom Nom
+* Arnaud Bascop
+* Brice DESPELCHIN
+* Margot COLPART
+* Titouan MASSON
+* Younoussa SOW
 
 ## Resources
 
-* git :
+* git : https://git-iut.univ-lille1.fr/sowy/my-pet.git
 
 
 # Équipe 12 : Farmiut
